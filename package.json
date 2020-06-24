@@ -1,0 +1,25 @@
+{
+  "name": "poc-eosio-did-immunity-passport",
+  "version": "0.1.0",
+  "description": "Smart Contracts for Immunity Passport with DID",
+  "main": ".",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meduryllc/poc-eosio-did-immunity-passport.git"
+  },
+  "author": "Lalith Medury and Sai Medury",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/meduryllc/poc-eosio-did-immunity-passport/issues"
+  },
+  "homepage": "https://github.com/meduryllc/poc-eosio-did-immunity-passport#readme",
+  "dependencies": {
+    "eoslime": "^1.0.4"
+  }
+}
