@@ -1,0 +1,7 @@
+compiled/*
+*/node_modules/*
+node_modules/
+nodeos.log
+*.abi
+*.wasm
+web/sendgrid.env
