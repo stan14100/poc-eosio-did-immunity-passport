@@ -7,7 +7,7 @@ This product was developed during participation in Coding for Change EOS Virtual
 Authors: Lalith Medury & Sai Medury \
 contact: lalith.aakash970@gmail.com, sai.abhijit777@gmail.com
 
-Check out the [Proof of Concept](https://rocky-plains-84310.herokuapp.com/), try creating a DID on the EOSIO Blockchain and request for an Immunity Passport. You can also register as a healthworker using your GMail address and validate/issue Immunity Passports, to get an all-round experience.
+Check out the [Proof of Concept](https://meduryllc.github.io/poc-eosio-did-immunity-passport/), try creating a DID on the EOSIO Blockchain and request for an Immunity Passport. You can also register as a healthworker using your GMail address and validate/issue Immunity Passports, to get an all-round experience.
 
 The PoC DApp is connected to smart contracts deployed on [**Jungle Test Network**](https://jungletestnet.io/). Create a [new account](https://eosio.stackexchange.com/a/3247), if you don't already have one, and connect using [Scatter](https://get-scatter.com/). Follow [this video](https://www.youtube.com/watch?v=6Yf-cHg4k90) to connect your Jungle Test Network account with Scatter.
 
